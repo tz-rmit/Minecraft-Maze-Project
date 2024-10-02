@@ -1,0 +1,109 @@
+[Test mode]
+[Enhancements enabled]
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+Enter the base point of the maze:
+Enter the width(x) and length(z) of the maze:
+Enter the maze structure:
+Maze read successfully
+
+**Printing Maze**
+BasePoint: (53, -59, 33) 
+Structure:
+x.xxxxxxxxx
+x.x.......x
+x.x.xxxxx.x
+x.x.x.x.x.x
+x.x...x...x
+x...x.x.xxx
+xxxxx.....x
+x.....xxx.x
+xxxxxxxxxxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+[STEP 1]: (60, -59, 42)
+[STEP 2]: (59, -59, 42)
+[STEP 3]: (59, -59, 41)
+[STEP 4]: (59, -59, 40)
+[STEP 5]: (59, -59, 39)
+[STEP 6]: (59, -59, 38)
+[STEP 7]: (58, -59, 38)
+[STEP 8]: (57, -59, 38)
+[STEP 9]: (57, -59, 37)
+[STEP 10]: (57, -59, 36)
+[STEP 11]: (58, -59, 36)
+[STEP 12]: (58, -59, 35)
+[STEP 13]: (58, -59, 34)
+[STEP 14]: (57, -59, 34)
+[STEP 15]: (56, -59, 34)
+[STEP 16]: (55, -59, 34)
+[STEP 17]: (54, -59, 34)
+[STEP 18]: (53, -59, 34)
+[STEP 19]: (52, -59, 34)
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
+

@@ -1,0 +1,117 @@
+[Test mode]
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Back
+
+Enter Menu item to continue: 
+Enter the base point of the maze:
+Enter the width(x) and length(z) of the maze:
+Enter the maze structure:
+Maze read successfully
+
+**Printing Maze**
+BasePoint: (53, -59, 33) 
+Structure:
+x.xxxxxxxxx
+x.x.......x
+x.x.xxxxx.x
+x.x.x.x.x.x
+x.x...x...x
+x...x.x.xxx
+xxxxx.....x
+x.....xxx.x
+xxxxxxxxxxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+[STEP 1]: (60, -59, 42)
+[STEP 2]: (59, -59, 42)
+[STEP 3]: (59, -59, 41)
+[STEP 4]: (59, -59, 40)
+[STEP 5]: (59, -59, 39)
+[STEP 6]: (59, -59, 38)
+[STEP 7]: (60, -59, 38)
+[STEP 8]: (60, -59, 37)
+[STEP 9]: (60, -59, 36)
+[STEP 10]: (60, -59, 35)
+[STEP 11]: (60, -59, 34)
+[STEP 12]: (60, -59, 35)
+[STEP 13]: (60, -59, 36)
+[STEP 14]: (60, -59, 37)
+[STEP 15]: (60, -59, 38)
+[STEP 16]: (59, -59, 38)
+[STEP 17]: (58, -59, 38)
+[STEP 18]: (57, -59, 38)
+[STEP 19]: (57, -59, 37)
+[STEP 20]: (57, -59, 36)
+[STEP 21]: (58, -59, 36)
+[STEP 22]: (58, -59, 35)
+[STEP 23]: (58, -59, 34)
+[STEP 24]: (57, -59, 34)
+[STEP 25]: (56, -59, 34)
+[STEP 26]: (55, -59, 34)
+[STEP 27]: (54, -59, 34)
+[STEP 28]: (53, -59, 34)
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Back
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
+
